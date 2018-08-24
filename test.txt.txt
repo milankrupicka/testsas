@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 zmena 1
-=======
 zmena server
->>>>>>> origin/master
+
