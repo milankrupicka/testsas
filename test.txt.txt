@@ -2,4 +2,4 @@ zmena 1
 zmena server
 
 featurwe 1 - zmena v branchi
-
+branch - feature 2
